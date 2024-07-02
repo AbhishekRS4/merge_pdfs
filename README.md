@@ -7,7 +7,7 @@
 
 
 ## Installing instructions
-* Run
+* For installing the tool, run the following command
 ```
 python setup.py develop
 ```
