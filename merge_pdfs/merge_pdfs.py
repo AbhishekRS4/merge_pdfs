@@ -21,7 +21,7 @@ def merge_pdfs(file_input_pdfs: list, file_output_pdf: str) -> None:
 
 @click.command()
 @click.option(
-    "--file_pdf",
+    "--file-pdf",
     "-f",
     multiple=True,
     help="full path to PDF file (multiple files can be added)",
