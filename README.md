@@ -11,3 +11,10 @@
 ```
 python setup.py develop
 ```
+
+
+## Using the tool after installing
+* Run
+```
+merge-pdfs --file-pdf <full-path-to_pdf-1> --file-pdf <full-path-to_pdf-2> --file-pdf <full-path-to_pdf-3> .....
+```
